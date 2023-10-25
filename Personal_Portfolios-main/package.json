@@ -1,0 +1,14 @@
+{
+  "name": "personal_portfolios-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "develop": "sass ./scss/main.scss ./css/main.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.69.4"
+  }
+}
